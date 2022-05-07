@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Hayley Gadol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am an environmental scientist interested in understanding interactions between natural and manmade materials and their environment."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
