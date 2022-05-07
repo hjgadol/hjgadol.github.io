@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Hayley Gadol, PhD"
   avatar : "/assets/images/Gadol_headshot_square.jpg"
-  bio    : "I am an environmental scientist interested in understanding interactions between natural and manmade materials and their environment."
+  bio    : "I am an environmental scientist interested in understanding interactions between natural and engineered materials and their environment."
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
