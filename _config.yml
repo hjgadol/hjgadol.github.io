@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Hayley Gadol, PhD"
-  avatar : "/assets/images/Gadol_headshot.jpg"
+  avatar : "/assets/images/Gadol_headshot_square.jpg"
   bio    : "I am an environmental scientist interested in understanding interactions between natural and manmade materials and their environment."
   links:
     - label: "Website"
