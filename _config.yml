@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Hayley Gadol"
+  name   : "Hayley Gadol, PhD"
   avatar : "/assets/images/Gadol_headshot.jpg"
   bio    : "I am an environmental scientist interested in understanding interactions between natural and manmade materials and their environment."
   links:
