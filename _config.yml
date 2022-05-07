@@ -64,14 +64,14 @@ author:
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "//https://scholar.google.com/citations?user=lmZJSAIAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=lmZJSAIAAAAJ&hl=en"
 
 
 footer:
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "//https://scholar.google.com/citations?user=lmZJSAIAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=lmZJSAIAAAAJ&hl=en"
 
 defaults:
   # _posts
@@ -93,9 +93,9 @@ defaults:
       layout: single
       author_profile: true
 
-#category_archive:
- # type: liquid
-  #path: /categories/
-#tag_archive:
- # type: liquid
-  #path: /tags/
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
